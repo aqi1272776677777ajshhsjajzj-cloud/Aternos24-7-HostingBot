@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "aquibHussain.aternos.me:57800
+    "port": butterfish.aternos.host:57800
     "version": "",
     "try-creative": false
   },
